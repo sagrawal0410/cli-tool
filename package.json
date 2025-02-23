@@ -1,0 +1,19 @@
+{
+  "name": "ai-cli-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "ai-cli-tool": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "commander": "^13.1.0"
+  }
+}
